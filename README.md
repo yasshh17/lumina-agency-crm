@@ -174,6 +174,6 @@ This project was built using the Byteable AI ecosystem (Web IDE + VS Code Extens
 
 ---
 
-## License
+## About
 
-This project was built as part of the Byteable AI Engineering Challenge assessment.
+Built as a technical assessment demonstrating full-stack development with React, TypeScript, Supabase, and modern data visualization. Designed and architected to be a clean, extensible MVP that could serve as a foundation for a production CRM system.
