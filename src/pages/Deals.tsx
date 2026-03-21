@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
-import { LayoutGrid, List, Plus, MoreVertical, Calendar, DollarSign, X } from 'lucide-react';
+import { LayoutGrid, List, Plus, MoreVertical, Calendar, DollarSign, X, Edit2 } from 'lucide-react';
 import { format, parseISO } from 'date-fns';
 import { useDeals } from '../hooks/useDeals';
 import { useContacts } from '../hooks/useContacts';
